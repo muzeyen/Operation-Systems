@@ -1,0 +1,32 @@
+|sayici_devre
+QA <= JK_ff:FA.port4
+QB <= QB.DB_MAX_OUTPUT_PORT_TYPE
+QC <= JK_ff:FC.port4
+Count => Count.IN3
+rst => rst.IN3
+
+
+|sayici_devre|JK_ff:FA
+J => Mux0.IN3
+K => Mux0.IN4
+clk => Q~reg0.CLK
+rst => Q.OUTPUTSELECT
+Q <= Q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|sayici_devre|JK_ff:FB
+J => Mux0.IN3
+K => Mux0.IN4
+clk => Q~reg0.CLK
+rst => Q.OUTPUTSELECT
+Q <= Q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|sayici_devre|JK_ff:FC
+J => Mux0.IN3
+K => Mux0.IN4
+clk => Q~reg0.CLK
+rst => Q.OUTPUTSELECT
+Q <= Q~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+

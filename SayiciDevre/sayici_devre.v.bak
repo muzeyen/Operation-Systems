@@ -1,0 +1,7 @@
+module  sayici_devre (QA, QB, QC, Count, rst);
+  output  QA, QB, QC;
+  input  Count, rst; 
+  JK_ff FA (0, 1, Count, rst, QA);
+  JK_ff FB ( 1, 1, Count, rst,QB);
+  JK_ff FC (QB, QB, Count, rst, QC);   
+ endmodule 

@@ -1,0 +1,10 @@
+C:\Users\Muzeyen\Desktop\BM307-Homework\BM307-Homework\bin\Debug\BM307-Homework.exe.config
+C:\Users\Muzeyen\Desktop\BM307-Homework\BM307-Homework\bin\Debug\BM307-Homework.exe
+C:\Users\Muzeyen\Desktop\BM307-Homework\BM307-Homework\bin\Debug\BM307-Homework.pdb
+C:\Users\Muzeyen\Desktop\BM307-Homework\BM307-Homework\obj\Debug\BM307_Homework.Form1.resources
+C:\Users\Muzeyen\Desktop\BM307-Homework\BM307-Homework\obj\Debug\BM307_Homework.Properties.Resources.resources
+C:\Users\Muzeyen\Desktop\BM307-Homework\BM307-Homework\obj\Debug\BM307-Homework.csproj.GenerateResource.cache
+C:\Users\Muzeyen\Desktop\BM307-Homework\BM307-Homework\obj\Debug\BM307-Homework.exe
+C:\Users\Muzeyen\Desktop\BM307-Homework\BM307-Homework\obj\Debug\BM307-Homework.pdb
+C:\Users\Muzeyen\Desktop\BM307-Homework\BM307-Homework\obj\Debug\BM307_Homework.Form2.resources
+C:\Users\Muzeyen\Desktop\BM307-Homework\BM307-Homework\obj\Debug\BM307-Homework.csprojAssemblyReference.cache
